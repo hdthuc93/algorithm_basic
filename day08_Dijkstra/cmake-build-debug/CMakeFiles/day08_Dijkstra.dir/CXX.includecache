@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Workspace/BigO_class/day08_Dijkstra/MiceAndMaze.cpp
+
+/Volumes/Data/Workspace/BigO_class/day08_Dijkstra/SendingEmail.cpp
+SendingEmail.h
+/Volumes/Data/Workspace/BigO_class/day08_Dijkstra/SendingEmail.h
+
+/Volumes/Data/Workspace/BigO_class/day08_Dijkstra/SendingEmail.h
+iostream
+-
+list
+-
+stack
+-
+algorithm
+-
+vector
+-
+functional
+-
+queue
+-
+map
+-
+
+/Volumes/Data/Workspace/BigO_class/day08_Dijkstra/TheShortestPath.cpp
+
+/Volumes/Data/Workspace/BigO_class/day08_Dijkstra/TheShortestpath2.cpp
+
+/Volumes/Data/Workspace/BigO_class/day08_Dijkstra/TravellingCost.cpp
+
+/Volumes/Data/Workspace/BigO_class/day08_Dijkstra/main.cpp
+SendingEmail.h
+/Volumes/Data/Workspace/BigO_class/day08_Dijkstra/SendingEmail.h
+

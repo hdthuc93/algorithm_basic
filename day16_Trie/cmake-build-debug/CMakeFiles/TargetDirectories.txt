@@ -1,0 +1,3 @@
+/Volumes/Data/Workspace/BigO_class/day16_Trie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/Data/Workspace/BigO_class/day16_Trie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/Data/Workspace/BigO_class/day16_Trie/cmake-build-debug/CMakeFiles/day16_Trie.dir

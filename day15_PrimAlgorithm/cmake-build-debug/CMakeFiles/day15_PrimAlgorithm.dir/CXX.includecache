@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Workspace/BigO_class/day15_PrimAlgorithm/ACMContestAndBlackout.cpp
+ACMContestAndBlackout.h
+/Volumes/Data/Workspace/BigO_class/day15_PrimAlgorithm/ACMContestAndBlackout.h
+
+/Volumes/Data/Workspace/BigO_class/day15_PrimAlgorithm/ACMContestAndBlackout.h
+iostream
+-
+queue
+-
+
+/Volumes/Data/Workspace/BigO_class/day15_PrimAlgorithm/CobbledStreet.cpp
+
+/Volumes/Data/Workspace/BigO_class/day15_PrimAlgorithm/ConnectTheCampus.cpp
+
+/Volumes/Data/Workspace/BigO_class/day15_PrimAlgorithm/MinimumSpanningTree.cpp
+
+/Volumes/Data/Workspace/BigO_class/day15_PrimAlgorithm/RoadConstruction.cpp
+
+/Volumes/Data/Workspace/BigO_class/day15_PrimAlgorithm/main.cpp
+ACMContestAndBlackout.h
+/Volumes/Data/Workspace/BigO_class/day15_PrimAlgorithm/ACMContestAndBlackout.h
+

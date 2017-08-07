@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Workspace/BigO_class/day17_Disjoint_set_union/DZYLovesChemistry.cpp
+DZYLovesChemistry.h
+/Volumes/Data/Workspace/BigO_class/day17_Disjoint_set_union/DZYLovesChemistry.h
+
+/Volumes/Data/Workspace/BigO_class/day17_Disjoint_set_union/DZYLovesChemistry.h
+iostream
+-
+vector
+-
+sstream
+-
+set
+-
+math.h
+-
+map
+-
+
+/Volumes/Data/Workspace/BigO_class/day17_Disjoint_set_union/Friends.cpp
+
+/Volumes/Data/Workspace/BigO_class/day17_Disjoint_set_union/NetworkConnections.cpp
+
+/Volumes/Data/Workspace/BigO_class/day17_Disjoint_set_union/VirtualFriends.cpp
+
+/Volumes/Data/Workspace/BigO_class/day17_Disjoint_set_union/main.cpp
+DZYLovesChemistry.h
+/Volumes/Data/Workspace/BigO_class/day17_Disjoint_set_union/DZYLovesChemistry.h
+

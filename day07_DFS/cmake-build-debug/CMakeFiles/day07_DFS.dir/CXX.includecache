@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Workspace/BigO_class/day07_DFS/BishuAndGirlfriend.cpp
+
+/Volumes/Data/Workspace/BigO_class/day07_DFS/LastShot.cpp
+
+/Volumes/Data/Workspace/BigO_class/day07_DFS/MakingJumps.cpp
+MakingJumps.h
+/Volumes/Data/Workspace/BigO_class/day07_DFS/MakingJumps.h
+
+/Volumes/Data/Workspace/BigO_class/day07_DFS/MakingJumps.h
+iostream
+-
+list
+-
+stack
+-
+algorithm
+-
+vector
+-
+
+/Volumes/Data/Workspace/BigO_class/day07_DFS/PrayatnaPR.cpp
+
+/Volumes/Data/Workspace/BigO_class/day07_DFS/main.cpp
+MakingJumps.h
+/Volumes/Data/Workspace/BigO_class/day07_DFS/MakingJumps.h
+

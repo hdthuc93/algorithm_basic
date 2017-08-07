@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Workspace/BigO_class/day06_BFS_2/dhoom_4_hackerearth.cpp
+dhoom_4_hackerearth.h
+/Volumes/Data/Workspace/BigO_class/day06_BFS_2/dhoom_4_hackerearth.h
+
+/Volumes/Data/Workspace/BigO_class/day06_BFS_2/dhoom_4_hackerearth.h
+iostream
+-
+queue
+-
+vector
+-
+
+/Volumes/Data/Workspace/BigO_class/day06_BFS_2/guilty_prince_lightoj.cpp
+
+/Volumes/Data/Workspace/BigO_class/day06_BFS_2/main.cpp
+dhoom_4_hackerearth.h
+/Volumes/Data/Workspace/BigO_class/day06_BFS_2/dhoom_4_hackerearth.h
+

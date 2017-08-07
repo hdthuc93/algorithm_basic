@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Workspace/BigO_class/day11_Floyd-Warshall/MeetingProfMiguel.cpp
+MeetingProfMiguel.h
+/Volumes/Data/Workspace/BigO_class/day11_Floyd-Warshall/MeetingProfMiguel.h
+
+/Volumes/Data/Workspace/BigO_class/day11_Floyd-Warshall/MeetingProfMiguel.h
+iostream
+-
+vector
+-
+algorithm
+-
+string.h
+-
+set
+-
+
+/Volumes/Data/Workspace/BigO_class/day11_Floyd-Warshall/PossibleFriends.cpp
+
+/Volumes/Data/Workspace/BigO_class/day11_Floyd-Warshall/Risk.cpp
+
+/Volumes/Data/Workspace/BigO_class/day11_Floyd-Warshall/ThunderMountain.cpp
+
+/Volumes/Data/Workspace/BigO_class/day11_Floyd-Warshall/main.cpp
+MeetingProfMiguel.h
+/Volumes/Data/Workspace/BigO_class/day11_Floyd-Warshall/MeetingProfMiguel.h
+

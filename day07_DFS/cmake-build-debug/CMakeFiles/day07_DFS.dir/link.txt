@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/day07_DFS.dir/main.cpp.o CMakeFiles/day07_DFS.dir/BishuAndGirlfriend.cpp.o CMakeFiles/day07_DFS.dir/PrayatnaPR.cpp.o CMakeFiles/day07_DFS.dir/LastShot.cpp.o CMakeFiles/day07_DFS.dir/MakingJumps.cpp.o  -o day07_DFS 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Workspace/BigO_class/day14_Map/main.cpp
+iostream
+-
+vector
+-
+iomanip
+-
+set
+-
+map
+-
+cmath
+-
+string.h
+-
+queue
+-
+

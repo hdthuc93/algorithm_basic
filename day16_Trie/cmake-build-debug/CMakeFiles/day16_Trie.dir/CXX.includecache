@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Workspace/BigO_class/day16_Trie/ConsistencyChecker.cpp
+
+/Volumes/Data/Workspace/BigO_class/day16_Trie/DNAPrefix.cpp
+
+/Volumes/Data/Workspace/BigO_class/day16_Trie/DiccionarioPortunol.cpp
+DiccionarioPortunol.h
+/Volumes/Data/Workspace/BigO_class/day16_Trie/DiccionarioPortunol.h
+
+/Volumes/Data/Workspace/BigO_class/day16_Trie/DiccionarioPortunol.h
+iostream
+-
+vector
+-
+queue
+-
+map
+-
+set
+-
+
+/Volumes/Data/Workspace/BigO_class/day16_Trie/SearchEngine.cpp
+
+/Volumes/Data/Workspace/BigO_class/day16_Trie/main.cpp
+DiccionarioPortunol.h
+/Volumes/Data/Workspace/BigO_class/day16_Trie/DiccionarioPortunol.h
+math.h
+-
+

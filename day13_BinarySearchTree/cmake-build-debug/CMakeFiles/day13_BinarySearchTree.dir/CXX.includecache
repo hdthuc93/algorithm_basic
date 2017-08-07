@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Workspace/BigO_class/day13_BinarySearchTree/BinarySearchTree.cpp
+
+/Volumes/Data/Workspace/BigO_class/day13_BinarySearchTree/main.cpp
+iostream
+-
+vector
+-
+iomanip
+-
+set
+-
+cmath
+-
+

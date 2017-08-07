@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Volumes/Data/Workspace/BigO_class/day18_Review
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Volumes/Data/Workspace/BigO_class/day18_Review/cmake-build-debug

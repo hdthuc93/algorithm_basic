@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Workspace/BigO_class/day20/main.cpp
+iostream
+-
+stack
+-
+queue
+-
+algorithm
+-
+set
+-
+map
+-
+string.h
+-
+vector
+-
+iomanip
+-
+math.h
+-
+
